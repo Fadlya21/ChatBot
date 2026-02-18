@@ -1,0 +1,14 @@
+# ============================================
+# 📦 ChatBot Dependencies
+# ============================================
+# Install all at once with: pip install -r requirements.txt
+# ============================================
+
+# Groq Python SDK — talk to Llama, Mixtral, and other open-source models for FREE
+groq>=0.4.0
+
+# Load API keys from .env file safely
+python-dotenv>=1.0.0
+
+# Gradio — build web UIs for AI apps (used in Step 5+)
+gradio>=4.0.0

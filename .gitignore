@@ -1,0 +1,18 @@
+# ============================================
+# 🛡️ Files to keep OUT of git
+# ============================================
+
+# Secret keys — NEVER commit this!
+.env
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environment
+venv/
+.venv/
